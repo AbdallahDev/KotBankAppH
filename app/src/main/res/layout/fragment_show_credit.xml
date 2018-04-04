@@ -1,0 +1,21 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#686868"
+    android:orientation="vertical"
+    tools:context="com.example.abdallahsarayrah.kotbankapph.ShowCreditFragment">
+
+    <!-- TODO: Update blank fragment layout -->
+
+    <TextView
+        android:id="@+id/show_credit_credit"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:gravity="center"
+        android:text="0"
+        android:textColor="#fff"
+        android:textSize="30sp" />
+
+</LinearLayout>
